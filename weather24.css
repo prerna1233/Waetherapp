@@ -154,8 +154,10 @@ body {
   }
   
   .list_content ul li img {
-    width: 50%;
+/*     width: 50%; */
     object-fit: cover;
+	  height:40px;
+	  width:20px;
   }
   
   
